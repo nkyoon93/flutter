@@ -13,16 +13,16 @@ sudo apt-get install curl
 flutter upgrade
 flutter doctor
 
-4. Install dependencies
+4.Install dependencies
 sudo apt install lib32stdc++6 
 
-5. android studio install
+5.android studio install
 sudo add-apt-repository ppa:maarten-fonville/android-studio
 sudo apt update
 sudo apt-get update
 sudo apt-get install android-studio
 
-6. agree lisence
+6.agree lisence
 cd $HOME/flutter/bin
 ./flutter doctor --android-licenses
 
